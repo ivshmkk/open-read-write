@@ -1,3 +1,5 @@
+
+
 cook_book = {
   'Омлет': [
     {'ingredient_name': 'Яйцо', 'quantity': 2, 'measure': 'шт.'},
